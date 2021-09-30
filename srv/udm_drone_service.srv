@@ -1,0 +1,6 @@
+std_msgs/String altitude
+std_msgs/String horizontal_x
+std_msgs/String horizontal_y
+---
+std_msgs/Bool res
+
