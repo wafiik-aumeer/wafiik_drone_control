@@ -1,0 +1,5 @@
+std_msgs/String x
+std_msgs/String y
+std_msgs/String z
+---
+std_msgs/Bool res
